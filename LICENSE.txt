@@ -1,4 +1,4 @@
-MIT License
+MIT LicenseSSS
 
 Copyright (c) 2022 OrderedSet86
 
